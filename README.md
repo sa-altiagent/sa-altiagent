@@ -2,12 +2,11 @@
 <center><h1> Hello World, I'm ALTInho 👋</h1></center>
 <br></br>
 
-
 ------
 
 #### **Sobre**
 
-- <img src="./assets/Call Me Hand Medium-Dark Skin Tone.png" alt="Me" width="30">   Este é o repositório privado do ALTInho, o Agente de IA da ALTI Tecnologia.
+- 🔭  Este é o repositório privado do ALTInho, o Agente de IA da ALTI Tecnologia. 🔭
 
 
 ------
@@ -21,4 +20,3 @@
   
 </div>
 </div>
-
