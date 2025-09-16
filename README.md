@@ -1,8 +1,5 @@
 
 <center><h1> Hello World, I'm ALTInho 👋</h1></center>
-<br></br>
-
-------
 
 #### **Sobre**
 
